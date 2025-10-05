@@ -4,7 +4,7 @@ import me.chriss99.data.DatedPercentageList;
 import me.chriss99.data.DatedPercentageListFile;
 
 public class DataProcessor {
-    public static final String[] names = {"Windows", "OS X", "Linux", "Chrome OS", "Unknown"};
+    public static final String[] names = {"Windows", "OS X", "Linux", "Chrome OS", "Unknown", "macOS"};
 
 
     public static DatedPercentageList[] getIndexedData() {
